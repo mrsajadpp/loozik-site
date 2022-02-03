@@ -13,63 +13,63 @@ let allMusic = [
   {
     name: "Harley Bird - Home",
     artist: "Jordan Schor",
-    img: "music-1",
-    src: "music-1"
+    img: "music-1-min",
+    src: "music-1-min"
   },
   {
     name: "Ikson Anywhere – Ikson",
     artist: "Audio Library",
-    img: "music-2",
-    src: "music-2"
+    img: "music-2-min",
+    src: "music-2-min"
   },
   {
     name: "Beauz & Jvna - Crazy",
     artist: "Beauz & Jvna",
-    img: "music-3",
-    src: "music-3"
+    img: "music-3-min",
+    src: "music-3-min"
   },
   {
     name: "Hardwind - Want Me",
     artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
+    img: "music-4-min",
+    src: "music-4-min"
   },
   {
     name: "Jim - Sun Goes Down",
     artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
+    img: "music-5-min",
+    src: "music-5-min"
   },
   {
     name: "Lost Sky - Vision NCS",
     artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
+    img: "music-6-min",
+    src: "music-6-min"
   },
   {
     name: "Manikya chirakulla - Iduki gold",
     artist: "Job kurien, Bijibal, Rafeeq Ahammed",
-    img: "music-7",
-    src: "music-7"
+    img: "music-7-min",
+    src: "music-7-min"
   },
   {
     name: "Changes - Xxxtentaction",
     artist: "Xxxtentaction",
-    img: "music-8",
-    src: "music-8"
+    img: "music-8-min",
+    src: "music-8-min"
   },
   {
     name: "Sickick - Intro(Infected)",
     artist: "Sickick",
-    img: "music-9",
-    src: "music-9"
+    img: "music-9-min",
+    src: "music-9-min"
   },
   {
     name: "Pushpa - Shrivalli(Malayalam)",
     artist: "Sid sriram",
-    img: "music-10",
-    src: "music-10",
-  },  
+    img: "music-10-min",
+    src: "music-10-min",
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
